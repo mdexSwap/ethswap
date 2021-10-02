@@ -1,0 +1,73 @@
+{
+  "name": "MDEX token List",
+  "timestamp": "2020-08-11T22:55:13.889Z",
+  "version": {
+  "major": 1,
+  "minor": 2,
+  "patch": 6
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmZgpZq1HkVS7YCThNJeR51KFVo5AL8P3ThA2y9wcw53p9",
+  "keywords": [
+  "MDEX",
+  "default"
+  ],
+  "tokens": [
+    {
+      "name": "TEST-weth",
+      "address": "0x6Fb88C4245b5d13C447597d165c444DB918537E2",
+      "symbol": "TEST-weth",
+      "decimals": 18,
+      "chainId": 4
+      },
+  {
+    "name": "TEST-AA",
+    "address": "0x86c37A2406e2fC4FD570c3acb0af206c85ee3556",
+    "symbol": "TEST-AA",
+    "decimals": 18,
+    "chainId": 4
+    },
+    {
+    "name": "TEST-BB",
+    "address": "0xE44390d13D179fB38E21a52AF276D811511e26f4",
+    "symbol": "TEST-BB",
+    "decimals": 18,
+    "chainId": 4
+    },
+    {
+      "name": "TEST-CC",
+      "address": "0xea1A974252bf968DB20d97d2B8027362787d0293",
+      "symbol": "TEST-CC",
+      "decimals": 18,
+      "chainId": 4
+    },
+    {
+    "name": "TEST-DD",
+    "address": "0xC36600e98ae7daB3880E0ca6c4318519e05DeB46",
+    "symbol": "TEST-DD",
+    "decimals": 18,
+    "chainId": 4
+    },
+      {
+      "name": "Dai Stablecoin",
+      "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 1
+      },
+      {
+      "name": "Tether USD",
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 1
+      },
+      {
+      "name": "Wrapped Ether",
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 1
+      }
+  ]
+  }
