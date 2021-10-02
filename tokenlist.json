@@ -36,6 +36,70 @@
       "decimals": 18,
       "chainId": 1,
       "whitelist": true
+      },
+      {
+      "name": "BNB",
+      "address": "0xb8c77482e45f1f44de1745f52c74426c631bdd52",
+      "symbol": "BNB",
+      "decimals": 18,
+      "chainId": 1,
+      "whitelist": true
+      },
+      {
+      "name": "Wrapped BTC",
+      "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 1,
+      "whitelist": true
+      },
+      {
+      "name": "USD Coin",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1,
+      "whitelist": true
+      },
+      {
+      "name": "Uniswap",
+      "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+      "symbol": "UNI",
+      "decimals": 18,
+      "chainId": 1,
+      "whitelist": true
+      },
+      {
+      "name": "Binance USD",
+      "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 1,
+      "whitelist": true
+      },
+      {
+      "name": "ChainLink Token",
+      "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 1,
+      "whitelist": true
+      },
+      {
+      "name": "Wrapped Filecoin",
+      "address": "0x6e1a19f235be7ed8e3369ef73b196c07257494de",
+      "symbol": "WFIL",
+      "decimals": 18,
+      "chainId": 1,
+      "whitelist": true
+      },
+      {
+      "name": "HuobiToken",
+      "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+      "symbol": "HT",
+      "decimals": 18,
+      "chainId": 1,
+      "whitelist": true
       }
     ]
   }
