@@ -19,7 +19,8 @@
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 1,
-      "whitelist": true
+      "whitelist": true,
+      "logoURI": "https://mdex.co/token-icons/eth/0x6b175474e89094c44da98b954eedeac495271d0f.png"
       },
       {
       "name": "Tether USD",
@@ -27,7 +28,8 @@
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 1,
-      "whitelist": true
+      "whitelist": true,
+      "logoURI": "https://mdex.co/token-icons/eth/0xdAC17F958D2ee523a2206206994597C13D831ec7.png"
       },
       {
       "name": "Wrapped Ether",
@@ -35,7 +37,8 @@
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 1,
-      "whitelist": true
+      "whitelist": true,
+      "logoURI": "https://mdex.co/token-icons/eth/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png"
       },
       {
       "name": "BNB",
@@ -43,7 +46,8 @@
       "symbol": "BNB",
       "decimals": 18,
       "chainId": 1,
-      "whitelist": true
+      "whitelist": true,
+      "logoURI": "https://mdex.co/token-icons/eth/0xb8c77482e45f1f44de1745f52c74426c631bdd52.png"
       },
       {
       "name": "Wrapped BTC",
@@ -51,7 +55,8 @@
       "symbol": "WBTC",
       "decimals": 8,
       "chainId": 1,
-      "whitelist": true
+      "whitelist": true,
+      "logoURI": "https://mdex.co/token-icons/eth/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png"
       },
       {
       "name": "USD Coin",
@@ -59,7 +64,8 @@
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 1,
-      "whitelist": true
+      "whitelist": true,
+      "logoURI": "https://mdex.co/token-icons/eth/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png"
       },
       {
       "name": "Uniswap",
@@ -67,7 +73,8 @@
       "symbol": "UNI",
       "decimals": 18,
       "chainId": 1,
-      "whitelist": true
+      "whitelist": true,
+      "logoURI": "https://mdex.co/token-icons/eth/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984.png"
       },
       {
       "name": "Binance USD",
@@ -75,7 +82,8 @@
       "symbol": "BUSD",
       "decimals": 18,
       "chainId": 1,
-      "whitelist": true
+      "whitelist": true,
+      "logoURI": "https://mdex.co/token-icons/eth/0x4fabb145d64652a948d72533023f6e7a623c7c53.png"
       },
       {
       "name": "ChainLink Token",
@@ -83,7 +91,8 @@
       "symbol": "LINK",
       "decimals": 18,
       "chainId": 1,
-      "whitelist": true
+      "whitelist": true,
+      "logoURI": "https://mdex.co/token-icons/eth/0x514910771af9ca656af840dff83e8264ecf986ca.png"
       },
       {
       "name": "Wrapped Filecoin",
@@ -91,7 +100,8 @@
       "symbol": "WFIL",
       "decimals": 18,
       "chainId": 1,
-      "whitelist": true
+      "whitelist": true,
+      "logoURI": "https://mdex.co/token-icons/eth/0x6e1a19f235be7ed8e3369ef73b196c07257494de.png"
       },
       {
       "name": "HuobiToken",
@@ -99,7 +109,8 @@
       "symbol": "HT",
       "decimals": 18,
       "chainId": 1,
-      "whitelist": true
+      "whitelist": true,
+      "logoURI": "https://mdex.co/token-icons/eth/0x6f259637dcd74c767781e37bc6133cd6a68aa161.png"
       }
     ]
   }
