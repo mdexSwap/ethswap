@@ -24,21 +24,21 @@
       },
       {
       "name": "Tether USD",
-      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 1,
       "whitelist": true,
-      "logoURI": "https://mdex.co/token-icons/eth/0xdAC17F958D2ee523a2206206994597C13D831ec7.png"
+      "logoURI": "https://mdex.co/token-icons/eth/0xdac17f958d2ee523a2206206994597c13d831ec7.png"
       },
       {
       "name": "Wrapped Ether",
-      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 1,
       "whitelist": true,
-      "logoURI": "https://mdex.co/token-icons/eth/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png"
+      "logoURI": "https://mdex.co/token-icons/eth/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
       },
       {
       "name": "BNB",
